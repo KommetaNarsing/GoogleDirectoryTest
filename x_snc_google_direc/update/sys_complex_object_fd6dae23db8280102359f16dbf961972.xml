@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD3d6dae2394828010b256ff4ccece0b72</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>ed0cce16db028010cc9ff13bbf96199a</scope_name>
+        <serialized_content>{"FlowDesigner:FD3d6dae2394828010b256ff4ccece0b72":{},"FlowDesigner:FD3d6dae2394828010b256ff4ccece0b72.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"ebc63b52-d6ff-4981-a1bb-7a2fa645b120\",\"default_value\":\"\",\"label\":\"userInfo\",\"mandatory\":\"false\",\"uiUniqueId\":\"6f0bb7e7-8e06-4126-bec7-08c194e2e982\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD3d6dae2394828010b256ff4ccece0b72\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"c0b8f420-50bb-47f8-a258-afe25e5e9598\",\"hint\":\"\",\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"8000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>narsingraj.kommeta@snc</sys_created_by>
+        <sys_created_on>2020-01-06 06:40:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>fd6dae23db8280102359f16dbf961972</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FD3d6dae2394828010b256ff4ccece0b72</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Directory" source="x_snc_google_direc">ed0cce16db028010cc9ff13bbf96199a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Directory">ed0cce16db028010cc9ff13bbf96199a</sys_scope>
+        <sys_update_name>sys_complex_object_fd6dae23db8280102359f16dbf961972</sys_update_name>
+        <sys_updated_by>narsingraj.kommeta@snc</sys_updated_by>
+        <sys_updated_on>2020-01-06 06:42:58</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

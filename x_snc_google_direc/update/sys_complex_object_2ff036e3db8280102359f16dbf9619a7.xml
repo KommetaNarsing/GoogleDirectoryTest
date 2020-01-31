@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD6bf036e32c82801013677db3d8c03ea7</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>ed0cce16db028010cc9ff13bbf96199a</scope_name>
+        <serialized_content>{"FlowDesigner:FD6bf036e32c82801013677db3d8c03ea7":{"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"id\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"48262477-293f-4c06-b106-872d65fbb23b\"}"}},"FlowDesigner:FD6bf036e32c82801013677db3d8c03ea7.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"ebc63b52-d6ff-4981-a1bb-7a2fa645b120\",\"default_value\":\"\",\"label\":\"userInfo\",\"mandatory\":\"false\",\"uiUniqueId\":\"ab10b3b4-fa20-4b65-87f8-9a5a3393a4dd\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD6bf036e32c82801013677db3d8c03ea7\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"c0b8f420-50bb-47f8-a258-afe25e5e9598\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>narsingraj.kommeta@snc</sys_created_by>
+        <sys_created_on>2020-01-06 06:56:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>2ff036e3db8280102359f16dbf9619a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD6bf036e32c82801013677db3d8c03ea7</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Directory" source="x_snc_google_direc">ed0cce16db028010cc9ff13bbf96199a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Directory">ed0cce16db028010cc9ff13bbf96199a</sys_scope>
+        <sys_update_name>sys_complex_object_2ff036e3db8280102359f16dbf9619a7</sys_update_name>
+        <sys_updated_by>narsingraj.kommeta@snc</sys_updated_by>
+        <sys_updated_on>2020-01-06 06:56:03</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

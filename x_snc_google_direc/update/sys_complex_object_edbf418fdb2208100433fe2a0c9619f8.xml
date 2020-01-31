@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD2dbf418f99220810bf89d975a8736df8</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>ed0cce16db028010cc9ff13bbf96199a</scope_name>
+        <serialized_content>{"FlowDesigner:FD2dbf418f99220810bf89d975a8736df8":{"kind":"String","kind.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"kind\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"846031b6-8beb-4f56-bc3d-0e68fb92daed\"}"},"name":{"familyName":"String","familyName.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"familyName\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"e9dda933-1d14-4bc8-b60f-678d36fd458a\"}"},"givenName":"String","givenName.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"givenName\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"5b9b5f24-7a4b-46dc-a6a0-bf31b73bf5bc\"}"},"fullName":"String","fullName.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"fullName\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"fdfd9c2e-333e-4194-b014-337ffafbf867\"}"}},"name.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"object\",\"default_value\":\"\",\"label\":\"name\",\"mandatory\":\"true\",\"order\":\"6\",\"max_length\":\"0\",\"uiUniqueId\":\"1873f140-ea5c-41ea-9b46-fca2c2b73757\"}"},"etag":"String","etag.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"etag\",\"mandatory\":\"true\",\"order\":\"4\",\"max_length\":\"0\",\"uiUniqueId\":\"3adc0cf3-6a00-42f5-8353-259e001ca197\"}"},"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"id\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"e931df8b-0395-4943-aee0-e7a3dccd09f9\"}"},"isAdmin":"String","isAdmin.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"isAdmin\",\"mandatory\":\"true\",\"order\":\"5\",\"max_length\":\"0\",\"uiUniqueId\":\"e841006e-b9c7-4271-a953-ce2e3ddcaab3\"}"},"primaryEmail":"String","primaryEmail.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"primaryEmail\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"1ad57fa2-048d-4bb6-9215-f1c77d3aab8e\"}"}},"FlowDesigner:FD2dbf418f99220810bf89d975a8736df8.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"07d93db7-0d8f-40bc-b8b1-52f985b66c01\",\"pwd2droppable\":\"true\",\"default_value\":\"\",\"label\":\"User\",\"mandatory\":\"false\",\"uiUniqueId\":\"8082ec14-e03c-4fb3-afc8-00ea86d7334c\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD2dbf418f99220810bf89d975a8736df8\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"a3de3f97-2882-43b4-87d9-642be1a53167\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"8000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>narsingraj.kommeta@snc</sys_created_by>
+        <sys_created_on>2020-01-29 07:05:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>edbf418fdb2208100433fe2a0c9619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD2dbf418f99220810bf89d975a8736df8</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Directory" source="x_snc_google_direc">ed0cce16db028010cc9ff13bbf96199a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Directory">ed0cce16db028010cc9ff13bbf96199a</sys_scope>
+        <sys_update_name>sys_complex_object_edbf418fdb2208100433fe2a0c9619f8</sys_update_name>
+        <sys_updated_by>narsingraj.kommeta@snc</sys_updated_by>
+        <sys_updated_on>2020-01-29 07:05:27</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

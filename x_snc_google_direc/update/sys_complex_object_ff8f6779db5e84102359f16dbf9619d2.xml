@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD3f8f6779125e84101c56d3609e7283d2</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>ed0cce16db028010cc9ff13bbf96199a</scope_name>
+        <serialized_content>{"FlowDesigner:FD3f8f6779125e84101c56d3609e7283d2":{"primaryEmail":"String","primaryEmail.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"primary Email\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}},"FlowDesigner:FD3f8f6779125e84101c56d3609e7283d2.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"User\",\"mandatory\":\"false\",\"uiUniqueId\":\"8e6291bc-3990-48ca-ad3e-81f9cd295c1b\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD3f8f6779125e84101c56d3609e7283d2\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"11\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>narsingraj.kommeta@snc</sys_created_by>
+        <sys_created_on>2020-01-13 11:15:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>ff8f6779db5e84102359f16dbf9619d2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD3f8f6779125e84101c56d3609e7283d2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Directory" source="x_snc_google_direc">ed0cce16db028010cc9ff13bbf96199a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Directory">ed0cce16db028010cc9ff13bbf96199a</sys_scope>
+        <sys_update_name>sys_complex_object_ff8f6779db5e84102359f16dbf9619d2</sys_update_name>
+        <sys_updated_by>narsingraj.kommeta@snc</sys_updated_by>
+        <sys_updated_on>2020-01-13 11:15:44</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

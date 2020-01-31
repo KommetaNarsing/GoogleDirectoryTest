@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD90407ea35d8280105b653b1abc7dea49</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>ed0cce16db028010cc9ff13bbf96199a</scope_name>
+        <serialized_content>{"FlowDesigner:FD90407ea35d8280105b653b1abc7dea49":{"userInfo_child0":{"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":null,\"label\":\"id\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"296f4ea8-0b65-4aa3-849a-9ba5f0da3baf\"}"}},"userInfo_child0.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Object\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"object\",\"default_value\":null,\"label\":\"userInfo_child0\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"b26d5d8d-c577-4969-b9d2-1b4acfe332c6\"}"}},"FlowDesigner:FD90407ea35d8280105b653b1abc7dea49.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"ebc63b52-d6ff-4981-a1bb-7a2fa645b120\",\"default_value\":\"\",\"label\":\"userInfo\",\"mandatory\":\"false\",\"uiUniqueId\":\"ab10b3b4-fa20-4b65-87f8-9a5a3393a4dd\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD90407ea35d8280105b653b1abc7dea49\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"c0b8f420-50bb-47f8-a258-afe25e5e9598\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>narsingraj.kommeta@snc</sys_created_by>
+        <sys_created_on>2020-01-06 06:52:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>54407ea3db8280102359f16dbf961949</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD90407ea35d8280105b653b1abc7dea49</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Directory" source="x_snc_google_direc">ed0cce16db028010cc9ff13bbf96199a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Directory">ed0cce16db028010cc9ff13bbf96199a</sys_scope>
+        <sys_update_name>sys_complex_object_54407ea3db8280102359f16dbf961949</sys_update_name>
+        <sys_updated_by>narsingraj.kommeta@snc</sys_updated_by>
+        <sys_updated_on>2020-01-06 06:52:49</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

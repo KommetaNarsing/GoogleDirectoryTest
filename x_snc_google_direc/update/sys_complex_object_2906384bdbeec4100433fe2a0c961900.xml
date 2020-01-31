@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD6506384bf2eec410a685951e59045500</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>ed0cce16db028010cc9ff13bbf96199a</scope_name>
+        <serialized_content>{"FlowDesigner:FD6506384bf2eec410a685951e59045500":{"role":"String","role.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"role\",\"mandatory\":\"true\",\"order\":\"5\",\"max_length\":\"0\",\"uiUniqueId\":\"88013aae-33ef-4f4d-86c5-7d55c2ab553e\"}"},"status1":"String","status1.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"status\",\"mandatory\":\"true\",\"order\":\"7\",\"max_length\":\"0\",\"uiUniqueId\":\"54695a9c-84c0-4699-a737-ba20fe7e521f\"}"},"kind":"String","kind.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"kind\",\"mandatory\":\"true\",\"order\":\"1\",\"max_length\":\"0\",\"uiUniqueId\":\"00434a49-e258-41fc-b9db-dca857b4df7c\"}"},"etag":"String","etag.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"etag\",\"mandatory\":\"true\",\"order\":\"2\",\"max_length\":\"0\",\"uiUniqueId\":\"c5fba33a-1993-4cd1-9fb0-07ff283700b6\"}"},"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"id\",\"mandatory\":\"true\",\"order\":\"3\",\"max_length\":\"0\",\"uiUniqueId\":\"5da5d205-e897-4ce4-8dc4-c4ce44847ce0\"}"},"type":"String","type.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"type\",\"mandatory\":\"true\",\"order\":\"6\",\"max_length\":\"0\",\"uiUniqueId\":\"f1a810e6-5f20-4021-bcdd-e7109532840b\"}"},"email":"String","email.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"email\",\"mandatory\":\"true\",\"order\":\"4\",\"max_length\":\"0\",\"uiUniqueId\":\"2cae294a-41fc-4f00-a947-8bc76abf1a4e\"}"},"delivery_settings":"String","delivery_settings.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"delivery_settings\",\"mandatory\":\"true\",\"order\":\"8\",\"max_length\":\"0\",\"uiUniqueId\":\"55228b2c-97e8-4bfb-9fb6-3e479959cad3\"}"}},"FlowDesigner:FD6506384bf2eec410a685951e59045500.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"ef6422db-3003-43e9-bf8b-97a4b477537e\",\"default_value\":\"\",\"label\":\"Member\",\"mandatory\":\"false\",\"uiUniqueId\":\"945ed83c-47a2-423d-b9d7-95e81fdacc49\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD6506384bf2eec410a685951e59045500\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceType\":\"step\",\"sourceUiUniqueId\":\"202c6cf6-b568-41d1-9b95-702e0a43bd78\",\"hint\":null,\"uiType\":\"object\",\"order\":\"3\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>narsingraj.kommeta@snc</sys_created_by>
+        <sys_created_on>2020-01-29 05:13:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>2906384bdbeec4100433fe2a0c961900</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD6506384bf2eec410a685951e59045500</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Directory" source="x_snc_google_direc">ed0cce16db028010cc9ff13bbf96199a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Directory">ed0cce16db028010cc9ff13bbf96199a</sys_scope>
+        <sys_update_name>sys_complex_object_2906384bdbeec4100433fe2a0c961900</sys_update_name>
+        <sys_updated_by>narsingraj.kommeta@snc</sys_updated_by>
+        <sys_updated_on>2020-01-29 05:13:14</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

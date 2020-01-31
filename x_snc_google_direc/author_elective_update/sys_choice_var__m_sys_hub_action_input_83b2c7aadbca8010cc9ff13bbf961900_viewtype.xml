@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="viewtype" table="var__m_sys_hub_action_input_83b2c7aadbca8010cc9ff13bbf961900" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>viewtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-- None --</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_83b2c7aadbca8010cc9ff13bbf961900</name>
+            <sequence>0</sequence>
+            <sys_created_by>narsingraj.kommeta@snc</sys_created_by>
+            <sys_created_on>2020-01-10 06:36:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>01c21f70db1e04102359f16dbf96198b</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>narsingraj.kommeta@snc</sys_updated_by>
+            <sys_updated_on>2020-01-10 06:54:00</sys_updated_on>
+            <value/>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>viewtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Admin_View</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_83b2c7aadbca8010cc9ff13bbf961900</name>
+            <sequence>1</sequence>
+            <sys_created_by>narsingraj.kommeta@snc</sys_created_by>
+            <sys_created_on>2020-01-10 06:24:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce109330db1e04102359f16dbf961972</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>narsingraj.kommeta@snc</sys_updated_by>
+            <sys_updated_on>2020-01-10 06:53:40</sys_updated_on>
+            <value>admin_view</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>viewtype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Domain_Public</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_input_83b2c7aadbca8010cc9ff13bbf961900</name>
+            <sequence>2</sequence>
+            <sys_created_by>narsingraj.kommeta@snc</sys_created_by>
+            <sys_created_on>2020-01-10 06:24:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a109330db1e04102359f16dbf961973</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>narsingraj.kommeta@snc</sys_updated_by>
+            <sys_updated_on>2020-01-10 06:53:40</sys_updated_on>
+            <value>domain_public</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>viewtype</element>
+            <name>var__m_sys_hub_action_input_83b2c7aadbca8010cc9ff13bbf961900</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>narsingraj.kommeta@snc</sys_created_by>
+            <sys_created_on>2020-01-10 06:36:01</sys_created_on>
+            <sys_id>49c21f70db1e04102359f16dbf96198b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name/>
+            <sys_package display_value="Google Directory" source="x_snc_google_direc">ed0cce16db028010cc9ff13bbf96199a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Google Directory">ed0cce16db028010cc9ff13bbf96199a</sys_scope>
+            <sys_update_name/>
+            <sys_updated_by>narsingraj.kommeta@snc</sys_updated_by>
+            <sys_updated_on>2020-01-10 06:36:01</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FDb34cc21befea0810d6e687a2a88bca17</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>ed0cce16db028010cc9ff13bbf96199a</scope_name>
+        <serialized_content>{"FlowDesigner:FDb34cc21befea0810d6e687a2a88bca17":{"$COCollectionField":[{"variable_child0":{"Custom_Type":"String","Custom_Type.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Custom Type\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"Type":"String","Type.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Choice\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"choice\",\"default_value\":\"\",\"label\":\"Type\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"32\"}","SimpleChoiceFacet":"{\"complex_choice_map_key$\":{},\"choice_map_key$\":{\"other\":\"{\\\"label\\\":\\\"other\\\",\\\"value\\\":\\\"other\\\",\\\"order\\\":3}\",\"work\":\"{\\\"label\\\":\\\"work\\\",\\\"value\\\":\\\"work\\\",\\\"order\\\":4}\",\"custom\":\"{\\\"label\\\":\\\"custom\\\",\\\"value\\\":\\\"custom\\\",\\\"order\\\":1}\",\"home\":\"{\\\"label\\\":\\\"home\\\",\\\"value\\\":\\\"home\\\",\\\"order\\\":2}\"}}"},"Address":"String","Address.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Address\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"},"Primary":"Boolean","Primary.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"True/False\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"boolean\",\"default_value\":\"\",\"label\":\"Primary\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Emails\",\"mandatory\":\"false\",\"child_name\":\"variable_child0\",\"uiUniqueId\":\"f81fce0d-da32-433a-9c5f-dba9519cd44c\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDb34cc21befea0810d6e687a2a88bca17\",\"child_label\":\"Email\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"7\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"c742789c-17b1-48fc-a814-fbcf4bbbc505\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FDb34cc21befea0810d6e687a2a88bca17.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Emails\",\"mandatory\":\"false\",\"child_name\":\"variable_child0\",\"uiUniqueId\":\"f81fce0d-da32-433a-9c5f-dba9519cd44c\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FDb34cc21befea0810d6e687a2a88bca17\",\"child_label\":\"Email\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"7\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"c742789c-17b1-48fc-a814-fbcf4bbbc505\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>narsingraj.kommeta@snc</sys_created_by>
+        <sys_created_on>2020-01-30 06:08:42</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>774cc21bdbea08100433fe2a0c961917</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FDb34cc21befea0810d6e687a2a88bca17</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Directory" source="x_snc_google_direc">ed0cce16db028010cc9ff13bbf96199a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Directory">ed0cce16db028010cc9ff13bbf96199a</sys_scope>
+        <sys_update_name>sys_complex_object_774cc21bdbea08100433fe2a0c961917</sys_update_name>
+        <sys_updated_by>narsingraj.kommeta@snc</sys_updated_by>
+        <sys_updated_on>2020-01-30 06:08:42</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>

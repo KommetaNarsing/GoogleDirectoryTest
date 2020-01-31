@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD953eba1bab6e08103844c8c1af56edaa</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>ed0cce16db028010cc9ff13bbf96199a</scope_name>
+        <serialized_content>{"FlowDesigner:FD953eba1bab6e08103844c8c1af56edaa":{"id":"String","id.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"string\",\"default_value\":null,\"label\":\"Id\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"}},"FlowDesigner:FD953eba1bab6e08103844c8c1af56edaa.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"User\",\"mandatory\":\"false\",\"uiUniqueId\":\"81ea1cb2-50e0-40a0-ae34-ca2586755e6a\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD953eba1bab6e08103844c8c1af56edaa\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"0\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>narsingraj.kommeta@snc</sys_created_by>
+        <sys_created_on>2020-01-30 09:46:43</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>593eba1bdb6e08100433fe2a0c9619aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD953eba1bab6e08103844c8c1af56edaa</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Directory" source="x_snc_google_direc">ed0cce16db028010cc9ff13bbf96199a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Directory">ed0cce16db028010cc9ff13bbf96199a</sys_scope>
+        <sys_update_name>sys_complex_object_593eba1bdb6e08100433fe2a0c9619aa</sys_update_name>
+        <sys_updated_by>narsingraj.kommeta@snc</sys_updated_by>
+        <sys_updated_on>2020-01-30 09:46:43</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>

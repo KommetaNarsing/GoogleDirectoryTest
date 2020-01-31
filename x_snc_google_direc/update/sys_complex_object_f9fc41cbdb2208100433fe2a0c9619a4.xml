@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD39fc41cb3e22081058c45687fa3a6da4</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>ed0cce16db028010cc9ff13bbf96199a</scope_name>
+        <serialized_content>{"FlowDesigner:FD39fc41cb3e22081058c45687fa3a6da4":{"$COCollectionField":[{"Address":{"Street_Address":"String","Street_Address.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Street Address\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"0\"}"},"PO_BOX":"String","PO_BOX.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"PO BOX\",\"mandatory\":\"false\",\"order\":\"3\",\"max_length\":\"0\"}"},"Country":"String","Country.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Country\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"0\"}"},"Postal_Code":"String","Postal_Code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Postal Code\",\"mandatory\":\"false\",\"order\":\"4\",\"max_length\":\"0\"}"}}}],"$COCollectionField.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Addresses\",\"mandatory\":\"false\",\"child_name\":\"Address\",\"uiUniqueId\":\"c32e1873-14a6-49d2-9013-1024200fb7f5\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD39fc41cb3e22081058c45687fa3a6da4\",\"child_label\":\"Address\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"8\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"48f37ae6-76ab-4bd4-9622-5bbda441e9e2\"}"},"$COCollectionField.$field_facets":{"SimpleMapFacet":"{\"up-shift-collection-level\":\"true\"}"}},"FlowDesigner:FD39fc41cb3e22081058c45687fa3a6da4.$type_facets":{"SimpleMapFacet":"{\"default_value\":\"\",\"label\":\"Addresses\",\"mandatory\":\"false\",\"child_name\":\"Address\",\"uiUniqueId\":\"c32e1873-14a6-49d2-9013-1024200fb7f5\",\"uiTypeLabel\":\"Array.Object\",\"co_type_name\":\"FD39fc41cb3e22081058c45687fa3a6da4\",\"child_label\":\"Address\",\"child_type_label\":\"Object\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"hint\":null,\"uiType\":\"array.object\",\"child_type\":\"object\",\"order\":\"8\",\"max_length\":\"65000\",\"child_uiUniqueId\":\"48f37ae6-76ab-4bd4-9622-5bbda441e9e2\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>narsingraj.kommeta@snc</sys_created_by>
+        <sys_created_on>2020-01-29 06:53:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>f9fc41cbdb2208100433fe2a0c9619a4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD39fc41cb3e22081058c45687fa3a6da4</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Google Directory" source="x_snc_google_direc">ed0cce16db028010cc9ff13bbf96199a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Google Directory">ed0cce16db028010cc9ff13bbf96199a</sys_scope>
+        <sys_update_name>sys_complex_object_f9fc41cbdb2208100433fe2a0c9619a4</sys_update_name>
+        <sys_updated_by>narsingraj.kommeta@snc</sys_updated_by>
+        <sys_updated_on>2020-01-29 06:53:27</sys_updated_on>
+        <type>complex_object_collection</type>
+    </sys_complex_object>
+</record_update>
